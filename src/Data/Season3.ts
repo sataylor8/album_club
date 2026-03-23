@@ -24,6 +24,7 @@ const Season3: Album[] = [
         LeastFavoritTracks: [],
         ImageURl: "https://i.scdn.co/image/ab67616d0000b2738c1fadcc997a65384f34d694",
         ThemeColor: "#9f0000",
+        InvertInfoIcon: true
     },
     {
         Title: "Seeds",
@@ -58,6 +59,7 @@ const Season3: Album[] = [
         LeastFavoritTracks: [],
         ImageURl: "https://i.scdn.co/image/ab67616d0000b273d37d023cf0ddb1440f659ee3",
         ThemeColor: "#9f0000",
+        InvertInfoIcon: true
     }
 ];
 
