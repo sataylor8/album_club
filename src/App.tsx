@@ -7,7 +7,8 @@ import SeasonView from './Components/SeasonView';
 
 const ActiveSeasons: number[] = [
   1,
-  2
+  2,
+  3
 ]
 
 
