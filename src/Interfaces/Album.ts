@@ -4,6 +4,7 @@ export type Track = {
     Title: string;
     SpotifyUrl: string;
     Submitters: Submitter[];
+    Number: number;
 }
 
 type Album = {

@@ -3,7 +3,7 @@ import { PlayIcon } from "./PlayIcon";
 
 export default function TrackList(props: { IconColor: string; Tracks: Track[] }) {
     props.Tracks.sort((a, b) =>{
-        return a.Submitters[0][0].localeCompare(b.Submitters[0][0]);
+        return a.Number < b.Number ? -1 : 1;
     })
     return (
         <div  className={"TrackList_Container"}>

@@ -9,22 +9,26 @@ const Season2: Album[] = [
         FavoriteTracks: [{
             Title: "New Born",
             Submitters: ["Stauffer"],
-            SpotifyUrl: "6KR9NaynH8bF9w727wKQBL"
+            SpotifyUrl: "6KR9NaynH8bF9w727wKQBL",
+            Number: 1
         },
         {
             Title: "Bliss",
             Submitters: ["Amanda"],
-            SpotifyUrl: "09oOhscdjOI4JzxgP9t0x3"
+            SpotifyUrl: "09oOhscdjOI4JzxgP9t0x3",
+            Number: 2
         },
         {
             Title: "Citizen Erased",
             Submitters: ["Jordan"],
-            SpotifyUrl: "0PEogXgSTxYjiL9oltS2Oc"
+            SpotifyUrl: "0PEogXgSTxYjiL9oltS2Oc",
+            Number: 6
         },
         {
             Title: "Plug In Baby",
             Submitters: ["Mike"],
-            SpotifyUrl: "429MqIq5nGH32feyRZHunv"
+            SpotifyUrl: "429MqIq5nGH32feyRZHunv",
+            Number: 5
         }],
         LeastFavoritTracks: [],
         ImageURl: "https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a",
@@ -38,22 +42,26 @@ const Season2: Album[] = [
         FavoriteTracks: [{
             Title: "Body & Blood",
             Submitters: ["Stauffer"],
-            SpotifyUrl: "5TFwGYhhFWa92FZXyIB7K8"
+            SpotifyUrl: "5TFwGYhhFWa92FZXyIB7K8",
+            Number: 2
         },
         {
             Title: "Work Work",
             Submitters: ["Peter"],
-            SpotifyUrl: "4Ninct3SYhYPFEZ5tNu4of"
+            SpotifyUrl: "4Ninct3SYhYPFEZ5tNu4of",
+            Number: 3
         },
         {
             Title: "Story 2",
             Submitters: ["Mike"],
-            SpotifyUrl: "1UsHdJAj4Y1sMIqAh1mS02"
+            SpotifyUrl: "1UsHdJAj4Y1sMIqAh1mS02",
+            Number: 11
         },
         {
             Title: "Dream",
             Submitters: ["Amanda"],
-            SpotifyUrl: "2Eoqsnc3IolqM6pgi9qZvC"
+            SpotifyUrl: "2Eoqsnc3IolqM6pgi9qZvC",
+            Number: 7
         }],
         LeastFavoritTracks: [],
         ImageURl: "https://i.scdn.co/image/ab67616d0000b273007401d5c6714488fe208aa1",
@@ -67,22 +75,26 @@ const Season2: Album[] = [
         FavoriteTracks: [{
             Title: "Love You So Bad",
             Submitters: ["Amanda", "Matt", "Peter"],
-            SpotifyUrl: "7I5YEoBfBLJnMfZCouNFCb"
+            SpotifyUrl: "7I5YEoBfBLJnMfZCouNFCb",
+            Number: 9
         },
         {
             Title: "No Place",
             Submitters: ["Stauffer"],
-            SpotifyUrl: "0mngu208gHmIcG1E4esbBT"
+            SpotifyUrl: "0mngu208gHmIcG1E4esbBT",
+            Number: 4
         },
         {
             Title: "Suck the Blood from My wound",
             Submitters: ["Jordan"],
-            SpotifyUrl: "08udle8t4dGZzQ67AEs8X4"
+            SpotifyUrl: "08udle8t4dGZzQ67AEs8X4",
+            Number: 1
         },
         {
             Title: "Peel My Orange Every Morning",
             Submitters: ["Mike"],
-            SpotifyUrl: "64WupAWGwxmlmriQS6cKfg"
+            SpotifyUrl: "64WupAWGwxmlmriQS6cKfg",
+            Number: 11
         }
         ],
         LeastFavoritTracks: [],
@@ -98,22 +110,26 @@ const Season2: Album[] = [
         FavoriteTracks: [{
             Title: "All My Friends",
             Submitters: ["Peter", "Matt"],
-            SpotifyUrl: "2Ud3deeqLAG988pfW0Kwcl"
+            SpotifyUrl: "2Ud3deeqLAG988pfW0Kwcl",
+            Number: 5
         },
         {
             Title: "North American Scum",
             Submitters: ["Stauffer"],
-            SpotifyUrl: "29ufIwomYfLbWBxPMdaUZm"
+            SpotifyUrl: "29ufIwomYfLbWBxPMdaUZm",
+            Number: 3
         },
         {
             Title: "Someone Great",
             Submitters: ["Jordan", "Amanda"],
-            SpotifyUrl: "2VGDntFPvgvqSiUf9ITEfW"
+            SpotifyUrl: "2VGDntFPvgvqSiUf9ITEfW",
+            Number: 4
         },
         {
             Title: "Get Innocuous!",
             Submitters: ["Mike"],
-            SpotifyUrl: "0Ct2XTT4UBt9Y196i0Ido2"
+            SpotifyUrl: "0Ct2XTT4UBt9Y196i0Ido2",
+            Number: 1
         },
         ],
         LeastFavoritTracks: [],
@@ -129,17 +145,20 @@ const Season2: Album[] = [
         FavoriteTracks: [{
             Title: "2122",
             Submitters: ["Matt", "Jordan"],
-            SpotifyUrl: "2XUQ0AYl4HPE0oK0qt70qw"
+            SpotifyUrl: "2XUQ0AYl4HPE0oK0qt70qw",
+            Number: 1
         },
         {
             Title: "Mysterious Love",
             Submitters: ["Stauffer", "Amanda"],
-            SpotifyUrl: "6SRJRU4jsABJpJ6upuU90y"
+            SpotifyUrl: "6SRJRU4jsABJpJ6upuU90y",
+            Number: 8
         },
         {
             Title: "Cowboy Nudes",
             Submitters: ["Mike"],
-            SpotifyUrl: "a5vtJPJsiwW5BZAYo8Nla0n"
+            SpotifyUrl: "a5vtJPJsiwW5BZAYo8Nla0n",
+            Number: 3
         }
         ],
         LeastFavoritTracks: [],
@@ -155,17 +174,20 @@ const Season2: Album[] = [
         FavoriteTracks: [{
             Title: "You Oughta Know",
             Submitters: ["Stauffer", "Amanda"],
-            SpotifyUrl: "0Dw9z44gXhplDh5HCWZIxP"
+            SpotifyUrl: "0Dw9z44gXhplDh5HCWZIxP",
+            Number: 2
         },
         {
             Title: "Head Over Feet",
             Submitters: ["Jordan"],
-            SpotifyUrl: "36sZlJgvmP62qcEuAaV1uM"
+            SpotifyUrl: "36sZlJgvmP62qcEuAaV1uM",
+            Number: 8
         },
         {
             Title: "Hand in My Pocket",
             Submitters: ["Mike"],
-            SpotifyUrl: "3ArPxT1Wt0Yse6kBeCqGFe"
+            SpotifyUrl: "3ArPxT1Wt0Yse6kBeCqGFe",
+            Number: 4
         }
         ],
         LeastFavoritTracks: [],
